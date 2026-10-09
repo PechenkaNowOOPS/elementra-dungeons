@@ -1,0 +1,31 @@
+# Gradle, Java, build artifacts
+.gradle/
+build/
+out/
+*.class
+*.jar
+*.log
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+# Local server and player data
+run/
+server/
+plugins/
+world/
+world_nether/
+world_the_end/
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
+# OS
+.DS_Store
+Thumbs.db
